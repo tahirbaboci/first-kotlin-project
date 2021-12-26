@@ -9,3 +9,5 @@ class FirstKotlinProjectApplication
 fun main(args: Array<String>) {
 	runApplication<FirstKotlinProjectApplication>(*args)
 }
+
+
